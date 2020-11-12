@@ -39,7 +39,7 @@
                     <div class="form-group">
                         <label for="username" class="col-lg-2 control-label">{$lang['username']}</label>
                         <div class="col-lg-10">
-                            <input class="form-control" type="text" placeholder="serveradmin" name="loginUser" id="username" value="serveradmin" autocorrect="off" autocapitalize="off" value="">
+                            <input class="form-control" type="text" placeholder="Server Query Username" name="loginUser" id="username" value="" autocorrect="off" autocapitalize="off" value="">
                         </div>
                     </div>
                     <div class="form-group">
