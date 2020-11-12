@@ -4,7 +4,7 @@
     <div class="navbar-header">
         <a class="navbar-brand" href="index.php">
             <img alt="Logo" class="page-logo" src="templates/bootstrap/gfx/images/logo.png">
-			<span id="dw__title">Psychokiller's Webinterface moddified for Teaspeak</span>
+			<span id="dw__title">Psychokiller's Webinterface Modified For Teaspeak</span>
         </a>
     </div>
     <div id="nav-dropdown" class="hidden-xs">
